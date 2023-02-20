@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ShuguangCui | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/author/shuguangcui/</link>
+      <atom:link href="https://thuiar.github.io/author/shuguangcui/index.xml" rel="self" type="application/rss+xml" />
+    <description>ShuguangCui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Jun 2021 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>ShuguangCui</title>
+      <link>https://thuiar.github.io/author/shuguangcui/</link>
+    </image>
+    
+    <item>
+      <title>NEURAL LAYERED MIN-SUM DECODING FOR PROTOGRAPH LDPC CODES</title>
+      <link>https://thuiar.github.io/publication/neural-layered-min-sum-decoding-for-protograph-ldpc-codes/</link>
+      <pubDate>Tue, 01 Jun 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/neural-layered-min-sum-decoding-for-protograph-ldpc-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Decode Protograph LDPC Codes</title>
+      <link>https://thuiar.github.io/publication/learning-to-decode-protograph-ldpc-codes/</link>
+      <pubDate>Mon, 01 Feb 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/learning-to-decode-protograph-ldpc-codes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

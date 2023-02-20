@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dexin Zhang | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/author/dexin-zhang/</link>
+      <atom:link href="https://thuiar.github.io/author/dexin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dexin Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Mar 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Dexin Zhang</title>
+      <link>https://thuiar.github.io/author/dexin-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Transformer-Based Detector for OFDM With Index Modulation</title>
+      <link>https://thuiar.github.io/publication/transformer-based-detector-for-ofdm-with-index-modulation/</link>
+      <pubDate>Tue, 01 Mar 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/transformer-based-detector-for-ofdm-with-index-modulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEURAL LAYERED MIN-SUM DECODING FOR PROTOGRAPH LDPC CODES</title>
+      <link>https://thuiar.github.io/publication/neural-layered-min-sum-decoding-for-protograph-ldpc-codes/</link>
+      <pubDate>Tue, 01 Jun 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/neural-layered-min-sum-decoding-for-protograph-ldpc-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous Polar-Coded MIMO</title>
+      <link>https://thuiar.github.io/publication/asynchronous-polar-coded-mimo/</link>
+      <pubDate>Mon, 01 Mar 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/asynchronous-polar-coded-mimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Self-Decoding of Polar-Coded HARQ</title>
+      <link>https://thuiar.github.io/publication/on-the-self-decoding-of-polar-coded-harq/</link>
+      <pubDate>Mon, 01 Mar 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/on-the-self-decoding-of-polar-coded-harq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polar-Coded Spatial Modulation</title>
+      <link>https://thuiar.github.io/publication/polar-coded-spatial-modulation/</link>
+      <pubDate>Mon, 01 Mar 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/polar-coded-spatial-modulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ResNet-Like Belief-Propagation Decoding for Polar Codes</title>
+      <link>https://thuiar.github.io/publication/resnet-like-belief-propagation-decoding-for-polar-codes/</link>
+      <pubDate>Fri, 01 Jan 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/resnet-like-belief-propagation-decoding-for-polar-codes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

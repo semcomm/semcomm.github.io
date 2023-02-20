@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bolin WU | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/author/bolin-wu/</link>
+      <atom:link href="https://thuiar.github.io/author/bolin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bolin WU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Wed, 01 Jun 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Bolin WU</title>
+      <link>https://thuiar.github.io/author/bolin-wu/</link>
+    </image>
+    
+    <item>
+      <title>Joint Source-Channel Polar-Coded Modulation</title>
+      <link>https://thuiar.github.io/publication/joint-source-channel-polar-coded-modulation/</link>
+      <pubDate>Wed, 01 Jun 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/joint-source-channel-polar-coded-modulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance and Construction of Polar Codes The Perspective of Bit Error Probability</title>
+      <link>https://thuiar.github.io/publication/performance-and-construction-of-polar-codes-the-perspective-of-bit-error-probability/</link>
+      <pubDate>Fri, 01 Apr 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/performance-and-construction-of-polar-codes-the-perspective-of-bit-error-probability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Polar-Coded Modulation Performance Analysis and Code Construction</title>
+      <link>https://thuiar.github.io/publication/multilevel-polar-coded-modulation-performance-analysis-and-code-construction/</link>
+      <pubDate>Wed, 01 Dec 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/multilevel-polar-coded-modulation-performance-analysis-and-code-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Polarization Transform A Novel Coded Transmission Paradigm</title>
+      <link>https://thuiar.github.io/publication/generalized-polarization-transform-a-novel-coded-transmission-paradigm/</link>
+      <pubDate>Fri, 01 Oct 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/generalized-polarization-transform-a-novel-coded-transmission-paradigm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Systematic Polar Codes BER Optimization Perspective</title>
+      <link>https://thuiar.github.io/publication/construction-of-systematic-polar-codes-ber-optimization-perspective/</link>
+      <pubDate>Thu, 01 Apr 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/construction-of-systematic-polar-codes-ber-optimization-perspective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XiaoqiQin | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/author/xiaoqiqin/</link>
+      <atom:link href="https://thuiar.github.io/author/xiaoqiqin/index.xml" rel="self" type="application/rss+xml" />
+    <description>XiaoqiQin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>XiaoqiQin</title>
+      <link>https://thuiar.github.io/author/xiaoqiqin/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Semantic Communications: Overfitting the Source and Channel for Profit</title>
+      <link>https://thuiar.github.io/publication/adaptive-semantic-communications-overfitting-the-source-and-channel-for-profit/</link>
+      <pubDate>Tue, 01 Nov 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/adaptive-semantic-communications-overfitting-the-source-and-channel-for-profit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Transform Source-Channel Coding for Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/wireless-deep-video-semantic-transmission/</link>
+      <pubDate>Sat, 01 Oct 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/wireless-deep-video-semantic-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Paradigm Shift toward Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/a-paradigm-shift-toward-semantic-communications/</link>
+      <pubDate>Mon, 01 Aug 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-paradigm-shift-toward-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication Beyond Transmitting Bits: Semantics-Guided Source and Channel Coding</title>
+      <link>https://thuiar.github.io/publication/communication-beyond-transmitting-bits-semantics-guided-source-and-channel-coding/</link>
+      <pubDate>Mon, 01 Aug 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/communication-beyond-transmitting-bits-semantics-guided-source-and-channel-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Transform Source-Channel Coding for Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</link>
+      <pubDate>Wed, 01 Jun 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

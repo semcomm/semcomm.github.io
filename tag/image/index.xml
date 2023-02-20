@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/tag/image/</link>
+      <atom:link href="https://thuiar.github.io/tag/image/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Image</title>
+      <link>https://thuiar.github.io/tag/image/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission</title>
+      <link>https://thuiar.github.io/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/</link>
+      <pubDate>Tue, 01 Nov 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission</title>
+      <link>https://thuiar.github.io/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/</link>
+      <pubDate>Tue, 01 Nov 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITT: A Wireless Image Transmission Transformer for Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/witt-a-wireless-image-transmission-transformer-for-semantic-communications/</link>
+      <pubDate>Tue, 01 Nov 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/witt-a-wireless-image-transmission-transformer-for-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Transform Source-Channel Coding for Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</link>
+      <pubDate>Wed, 01 Jun 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Deep Learning Architecture for Wireless Image Transmission</title>
+      <link>https://thuiar.github.io/publication/a-novel-deep-learning-architecture-for-wireless-image-transmission/</link>
+      <pubDate>Wed, 01 Dec 2021 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-novel-deep-learning-architecture-for-wireless-image-transmission/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

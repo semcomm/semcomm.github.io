@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YuanjieLi | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/author/yuanjieli/</link>
+      <atom:link href="https://thuiar.github.io/author/yuanjieli/index.xml" rel="self" type="application/rss+xml" />
+    <description>YuanjieLi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Mar 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>YuanjieLi</title>
+      <link>https://thuiar.github.io/author/yuanjieli/</link>
+    </image>
+    
+    <item>
+      <title>Unsourced Multiple Access for 6G Massive Machine Type Communications</title>
+      <link>https://thuiar.github.io/publication/unsourced-multiple-access-for-6g-massive-machine-type-communications/</link>
+      <pubDate>Tue, 01 Mar 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/unsourced-multiple-access-for-6g-massive-machine-type-communications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

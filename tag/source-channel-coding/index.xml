@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source-Channel Coding | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/tag/source-channel-coding/</link>
+      <atom:link href="https://thuiar.github.io/tag/source-channel-coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source-Channel Coding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Tue, 01 Nov 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Source-Channel Coding</title>
+      <link>https://thuiar.github.io/tag/source-channel-coding/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission</title>
+      <link>https://thuiar.github.io/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/</link>
+      <pubDate>Tue, 01 Nov 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Image Transmission using Deep Joint Source-Channel Coding</title>
+      <link>https://thuiar.github.io/publication/distributed-image-transmission-using-deep-joint-source-channel-coding/</link>
+      <pubDate>Sat, 01 Jan 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/distributed-image-transmission-using-deep-joint-source-channel-coding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

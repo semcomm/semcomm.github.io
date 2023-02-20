@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/news/</link>
+      <atom:link href="https://thuiar.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Mon, 21 Nov 2022 15:43:29 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://thuiar.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://thuiar.github.io/news/3008/</link>
+      <pubDate>Mon, 21 Nov 2022 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/news/3008/</guid>
+      <description>&lt;p&gt;● &lt;font face=consolas&gt; &lt;font face=fantasy color=red&gt;&lt;strong&gt;NEW&lt;/strong&gt;&lt;/font&gt; &lt;strong&gt;[2022-12]&lt;/strong&gt; &lt;em&gt;2 papers&lt;/em&gt; accepted by &lt;font color=#003399&gt;&lt;strong&gt;2023 WCNC&lt;/strong&gt;&lt;/font&gt;: &lt;/font&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://thuiar.github.io/publication/variational-speech-waveform-compression-to-catalyze-semantic-communications/&#34;&gt;Variational Speech Waveform Compression to Catalyze Semantic Communications&lt;/a&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thuiar.github.io/news/3009/</link>
+      <pubDate>Mon, 21 Nov 2022 15:43:29 +0800</pubDate>
+      <guid>https://thuiar.github.io/news/3009/</guid>
+      <description>&lt;p&gt;● &lt;font face=consolas&gt; &lt;strong&gt;[2022-08]&lt;/strong&gt; &lt;em&gt;2 papers&lt;/em&gt; accepted by &lt;font color=#003399&gt;&lt;strong&gt;2022 GLOBECOM&lt;/strong&gt;&lt;/font&gt;: &lt;/font&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://thuiar.github.io/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/&#34;&gt;Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission&lt;/a&gt; &lt;br/&gt;,&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://thuiar.github.io/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/&#34;&gt;Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission &lt;/a&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

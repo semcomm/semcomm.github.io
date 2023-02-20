@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/tag/communication/</link>
+      <atom:link href="https://thuiar.github.io/tag/communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Communication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Mon, 01 Aug 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Communication</title>
+      <link>https://thuiar.github.io/tag/communication/</link>
+    </image>
+    
+    <item>
+      <title>A Paradigm Shift toward Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/a-paradigm-shift-toward-semantic-communications/</link>
+      <pubDate>Mon, 01 Aug 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/a-paradigm-shift-toward-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

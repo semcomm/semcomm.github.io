@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nonlinear Transform | Information Theory and Signal Processing Lab</title>
+    <link>https://thuiar.github.io/tag/nonlinear-transform/</link>
+      <atom:link href="https://thuiar.github.io/tag/nonlinear-transform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nonlinear Transform</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© BUPTISL 2023</copyright><lastBuildDate>Wed, 01 Jun 2022 16:24:04 +0800</lastBuildDate>
+    <image>
+      <url>https://thuiar.github.io/images/icon_hu617423ca60b017e89d38e6d6f64feab9_278905_512x512_fill_lanczos_center_3.png</url>
+      <title>Nonlinear Transform</title>
+      <link>https://thuiar.github.io/tag/nonlinear-transform/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Transform Source-Channel Coding for Semantic Communications</title>
+      <link>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</link>
+      <pubDate>Wed, 01 Jun 2022 16:24:04 +0800</pubDate>
+      <guid>https://thuiar.github.io/publication/nonlinear-transform-source-channel-coding-for-semantic-communications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
